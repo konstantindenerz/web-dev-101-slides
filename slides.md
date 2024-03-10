@@ -57,3 +57,39 @@ if you knows the native API (JS / CSS)
 * CSS Anchor API (Experimental) for e.g. Tooltips
 * Native Layouting with CSS instead of *Angular Flex Layout*
 -->
+
+
+---
+layout: default
+---
+
+```mermaid
+mindmap
+    root((✨CSS)) 
+        Core
+            Box Model
+                Sizing
+                    Intrinsic
+                    Extrinsic
+                Areas
+            Selectors
+            The cascade
+            Inheritance
+        Sizing Units
+            px
+            rem, em
+            vh, vw,svh, svw
+        Layouting
+            Block, Inline
+            Flexbox
+            Grid
+        Pseudo-classes
+        Focus
+        Text Typography
+```
+
+https://web.dev/learn/css
+
+<!--
+Let's take a look at Box Model
+-->
