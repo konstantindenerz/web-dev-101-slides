@@ -38,8 +38,8 @@ layout: center
 layout: center
 ---
 
-| **Tech Stack - Frontend**         |
-|-----------------------------------|
+| **Tech Stack - Frontend**          |
+|------------------------------------|
 | ⚡️️  ~~Tailwind CSS, Flex Layout~~ |
 | ⚡️️  Dev Extreme                   |
 | ⚡️️  Angular Material              |
@@ -47,7 +47,7 @@ layout: center
 | ⚡️️  NgRx                          |
 | ⚡️️  Angular                       |
 | ⚡️️  SCSS                          |
-| Browser API (JS / CSS)            |
+| 😍 Browser API (JS / CSS)          |
 
 <!-- 
 * Reduce complexity
@@ -65,16 +65,15 @@ layout: default
 
 ```mermaid
 mindmap
-    root((✨CSS)) 
-        Core
-            Box Model
-                Sizing
-                    Intrinsic
-                    Extrinsic
-                Areas
-            Selectors
-            The cascade
-            Inheritance
+    root((*CSS*)) 
+          Box Model
+              Sizing
+                  Intrinsic
+                  Extrinsic
+              Areas
+          Selectors
+          The cascade
+          Inheritance
         Sizing Units
             px
             rem, em
@@ -85,7 +84,8 @@ mindmap
             Grid
         Pseudo-classes
         Focus
-        Text Typography
+        Typography
+        Functions
 ```
 
 https://web.dev/learn/css
